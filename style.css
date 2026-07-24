@@ -1,0 +1,41 @@
+body { 
+    font-family: Arial, sans-serif;
+    background: #0d1117;
+    color: white;}
+header { 
+    text-align: center; padding: 40px; 
+    background: linear-gradient (90deg, #171f3d, #4b0082);
+}
+
+header h1 {
+    color: #00e5ff;
+    font-size: 48px;
+}
+header p { 
+    color: #dddddd;
+}
+nav {
+    margin-top: 20px;
+}
+nav a:hover {
+    color:#00e5ff
+}
+section {
+    width: 80%;
+    margin:30px auto;
+    background: #161b22;
+    padding: 25px;
+    border-radius: 12px;
+}
+section h2 {
+    color: #00e5ff;
+}
+section div {
+    background: #1f2937;
+    padding: 15px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+section div:hover {
+    box-shadow: 0 0 12px #00e5ff;
+}
